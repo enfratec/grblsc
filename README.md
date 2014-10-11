@@ -14,7 +14,7 @@ Attenzione non installare su server online!!! alto rischio per la sicurezza!
 <p>php5</p>
 
 <p>Guida:<br />
-Presa da wiki.openwrt.org (Funziona solo con Attitude Adjustment perch&egrave; serve Python 2.7!)</p>
+Presa da wiki.openwrt.org</p>
 
 <p>Installare PHP5:<br />
 &nbsp; &nbsp;opkg update<br />
