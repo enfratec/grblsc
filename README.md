@@ -4,7 +4,7 @@ GRBLSC (GRBL Manager for Embedded Computer)
 Attenzione non installare su server online!!! alto rischio per la sicurezza!
 ======
    
-<p>GRBL Small Computer VERSIONE MODIFICATA! SOLO PHP!!!!</p>
+<p>GRBL for Small Computer</p>
 
 <p>Testato e funzionante su TL703 e simili con SO OpenWrt</p>
 <p>Funziona anche con RaspberryPi e simili con SO Linux</p>
