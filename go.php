@@ -14,7 +14,7 @@ $nome = $_GET['x'];
 
 $serial->deviceOpen();
 sleep (1);
-$serial->sendMessage("\r\n\r\n");
+$serial->sendMessage("\x18");
 sleep(2);
 $read = $serial->readPort();
 echo ($read."<br>");
